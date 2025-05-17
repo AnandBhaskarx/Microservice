@@ -1,0 +1,11 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "city": "Lavender",
+      "name": "Spectral Inn",
+      "price": 150.00
+    }
+  ]
+}
+ 

@@ -1,0 +1,8 @@
+{ "car_rentals": [
+    {
+      "id": 3,
+      "city": "Lavender",
+      "company": "Phantom Rides",
+      "price_per_day": 45.00
+    }
+  ]}
